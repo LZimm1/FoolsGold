@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4cfbd24debd96164caf95119fb7b151e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gold0Fake: {fileID: 2772889846759223346, guid: da7aa6b2d8dadbe4a82efe3ae3c89647, type: 3}
+  - gold1Fake: {fileID: 306861705104145612, guid: 4f11bcf2f88e39c4b90d370789afcafd, type: 3}
+  - gold2Fake: {fileID: 1110179720957828348, guid: 56d5f436c0d9a904abd914627f729048, type: 3}
+  - gold0Real: {fileID: 2772889846759223346, guid: b375c130995b7a14d8552a1b3750fc38, type: 3}
+  - gold1Real: {fileID: 306861705104145612, guid: f046751e4590ad74abf8095e676500ba, type: 3}
+  - gold2Real: {fileID: 1110179720957828348, guid: 4e2d0854d2d266645a51046ea550d86b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
